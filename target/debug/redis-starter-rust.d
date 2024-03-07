@@ -1,1 +1,0 @@
-/Users/magil/Desktop/web3/rust/Practice\ Projects/codecrafters-redis-rust/target/debug/redis-starter-rust: /Users/magil/Desktop/web3/rust/Practice\ Projects/codecrafters-redis-rust/src/database.rs /Users/magil/Desktop/web3/rust/Practice\ Projects/codecrafters-redis-rust/src/main.rs /Users/magil/Desktop/web3/rust/Practice\ Projects/codecrafters-redis-rust/src/parser.rs
